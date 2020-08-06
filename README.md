@@ -1,5 +1,11 @@
-### Hi there 👋
+# Hello world! 👋
+Ungraduated Computer Engineering @Chulalongkorn University
 
+## Interested
+- Web development
+- DevOps
+
+I'm looking to collaborate on any cool projects.
 <!--
 **zpoom/zpoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
