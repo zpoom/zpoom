@@ -1,5 +1,5 @@
 # Hello world! 👋
-4th year student @Computer Engineering, Chulalongkorn University
+New graduated Computer Engineering Student, Chulalongkorn University
 
 ## Interested
 - Web development
